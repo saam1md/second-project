@@ -1,0 +1,47 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Imbue', serif;
+    
+
+}
+
+header{
+    background-color: #fdeed8;
+}
+ul li{
+    margin-left: 25px;
+}
+.products-img{
+    width: 220px;
+    height: 250px;
+    margin: auto;
+    padding: 10px;
+}
+
+.card-button{
+    background-color: #7bd351;
+    color: white;
+
+}
+
+.price-colour{
+    color: #ed961a;
+}
+
+.footer{
+    width: 300px;
+    height: auto;
+    padding: 5px;
+}
+
+
+
+.footer-icon{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+
+
